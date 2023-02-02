@@ -1,4 +1,4 @@
-# This repository is the back of our nutrition follow up app: [FollowNut'](https://follownut.herokuapp.com/)
+# This repository is the back of our nutrition follow up app
 
 ## Description :
 FollowNut' is a follow up application for nutritionists and their patients. 
@@ -15,8 +15,7 @@ FollowNut' stands in the middle, i.e. a user friendly and affordable application
 
 
 ## FollowNut Frontend:
-* [Git repository](https://github.com/XabAyca/follownut_front)
-* [In production](https://follownut.herokuapp.com/)
+* [Git repository](https://github.com/MathieuParadis/follownut_front)
 
 
 ## How to use it:
@@ -30,11 +29,3 @@ rails server
 ```
 Then, access the app in your browser at http://localhost:3000/
 
-
- - In production:
-Hereafter a few links to our production back end
-* [Patients](https://follownut-back.herokuapp.com/api/v1/patients)
-* [Nutritionists](https://follownut-back.herokuapp.com/api/v1/nutritionists)
-* [Appointments](https://follownut-back.herokuapp.com/api/v1/appointments)
-* [Logbooks](https://follownut-back.herokuapp.com/api/v1/logbooks)
-* [Articles](https://follownut-back.herokuapp.com/api/v1/articles)
