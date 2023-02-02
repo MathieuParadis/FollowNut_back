@@ -15,7 +15,7 @@ FollowNut' stands in the middle, i.e. a user friendly and affordable application
 
 
 ## FollowNut Frontend:
-* [Git repository](https://github.com/MathieuParadis/follownut_front)
+* [Git repository](https://github.com/MathieuParadis/follownut)
 
 
 ## How to use it:
